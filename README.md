@@ -21,10 +21,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="_Martel| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_Martel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[twitter]: https://x.com/martellytell
+[youtube]: https://www.youtube.com/@hiemsouvanh
+[instagram]: https://www.instagram.com/martellytell/
 [linkedin]: https://www.linkedin.com/in/martel-hiemsouvanh-245ab8132/
+[twitch]: https://www.twitch.tv/tellytell
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
