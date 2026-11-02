@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/MartelHiemsouvanh/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/MartelHiemsouvanh/Programmatic-Vulnerability-Remediations/tree/main)**
-- **STIG Implementations (PowerShell)] 
+- **[STIG Implementations (PowerShell)](https://github.com/MartelHiemsouvanh/STIG-Implementations)** 
 
 ## 🚨 Threat Hunting and Security Operations
 
